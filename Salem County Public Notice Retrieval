@@ -1,0 +1,35 @@
+{
+  "entities": [
+    {
+      "id": "county",
+      "name": "Salem County Government",
+      "homepage": "https://www.salemcountynj.gov",
+      "boards": [
+        "Commissioners",
+        "Planning Board",
+        "Health & Human Services",
+        "Finance"
+      ]
+    },
+    {
+      "id": "carneyspoint",
+      "name": "Carneys Point Township",
+      "homepage": "https://www.carneyspoint.org",
+      "boards": [
+        "Township Committee",
+        "Planning Board",
+        "Zoning Board"
+      ]
+    },
+    {
+      "id": "woodstown",
+      "name": "Woodstown Borough",
+      "homepage": "https://www.woodstown-nj.com",
+      "boards": [
+        "Council",
+        "Planning Board"
+      ]
+    }
+  ],
+  "lastUpdated": "2025-09-19T17:00:00Z"
+}
